@@ -1,6 +1,6 @@
 # Neo4j to JS Graph
 
-Convert neo4j responses to a [Graph](https://github.com/chenglou/data-structures/wiki/Graph) object.
+Convert neo4j graph responses to a traversable [Graph](https://github.com/chenglou/data-structures/wiki/Graph) object.
 
 See example.js:
 ``` js
