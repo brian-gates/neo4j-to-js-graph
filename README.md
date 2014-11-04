@@ -13,7 +13,7 @@ var graph     = graphify(response.results[0]);
 console.log(util.inspect(graph, { depth: null }));
 ```
 Would output: 
-``` json
+``` js
 { _nodes:
    { '16':
       { _outEdges:
